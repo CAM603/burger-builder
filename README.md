@@ -40,3 +40,11 @@ Purchased
 Total Price
 
 -   Price
+
+## Components
+
+Presentational (Dumb)
+
+## Containers
+
+Stateful
